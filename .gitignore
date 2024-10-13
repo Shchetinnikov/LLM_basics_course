@@ -1,0 +1,5 @@
+.venv/
+notebooks/hw_1/__pycache__
+notebooks/hw_1/.env
+notebooks/hw_1/certificates/
+notebooks/hw_1/data/
